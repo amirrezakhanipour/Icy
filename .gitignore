@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,11 +6,18 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+MemoryCaptures/
+Recordings/
 
+# Unity Collaborate / temp
+.utmp/
+
+# IDEs
 .vs/
 .vscode/
 .idea/
 
+# Visual Studio / Mono
 *.csproj
 *.unityproj
 *.sln
@@ -23,6 +31,6 @@ UserSettings/
 *.opendb
 *.VC.db
 
+# OS
 .DS_Store
 Thumbs.db
-.utmp/
